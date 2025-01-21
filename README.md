@@ -1,2 +1,2 @@
 # STM32
-Repository cointains projects made on Nucleo STM32F767ZI
+The repository contains exercises covering the basic functionalities of the STM32F767ZI.
